@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RestaurantFinder-Zomato</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="no_restaurants">No Restaurants Found</string>
+    <string name="API_KEY">d1a2af2c8d1dff6f1581fe84aee27f30</string>
+
+</resources>
